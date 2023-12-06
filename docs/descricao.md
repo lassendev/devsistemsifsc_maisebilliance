@@ -45,15 +45,11 @@ Descreva os principais recursos e funcionalidades que serão implementados no so
 
 4. Diagrama de Caso de Uso
 
-![](RackMultipart20231129-1-kv2kww_html_d3aed02645eaee18.png)
-
 4.1 Descrição de Caso de Uso
 
 "Descrever pelo menos 2"
 
 5. DIAGRAMA DE CLASSE
-
-![](RackMultipart20231129-1-kv2kww_html_cd34f313d82b8018.png)
 
 6. PROTÓTIPO DE TELAS
 
