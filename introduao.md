@@ -42,7 +42,6 @@ A MB tem como intuito a Venda de Acessórios para todos ficarem mais elegantes, 
 
 2.1.1. Canvas do Projeto
 
-![](RackMultipart20231129-1-kv2kww_html_3df23c4d88fbced2.png)
 
 2.2 Stakeholders
 
